@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shams Ali Mahmoud</h1>
 <h3 align="center">Mobile Developer | Flutter</h3>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=12670BEB&background=39855203&multiline=true&width=405&height=55&lines=Hello+and+welcome+to+my+GitHub+profile.;3%2B+years+of+programming+experience)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamsali15&label=Profile%20views&color=0e75b6&style=flat" alt="shamsali15" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamsali15" alt="shamsali15" /></a> </p>
