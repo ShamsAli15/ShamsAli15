@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shams Ali Mahmoud</h1>
-<h3 align="center">Mobile Developer | Flutter</h3>
+<h3 align="center"> Software Testing Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamsali15&label=Profile%20views&color=0e75b6&style=flat" alt="shamsali15" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Algorithm ,Flutter and Web**
+- 🌱 I’m currently learning **Selenium ,TestNG and cucumber**
 
-- 💬 Ask me about **Dart ,C++ ,HTML ,CSS ,JS ,Vue.JS**
+- 💬 Ask me about **Maunal Testng ,API Testing ,Automation Testing**
 
 - 📫 How to reach me **shams.ali15720@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vbxE4gkoZZZE_VBH34_qBtAqOkEw5dGs/view?usp=sharing](https://drive.google.com/file/d/1vbxE4gkoZZZE_VBH34_qBtAqOkEw5dGs/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HKi_7LDHGZv10szcmaGFPN-kKDnw58D3/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
