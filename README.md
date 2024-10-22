@@ -5,15 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamsali15" alt="shamsali15" /></a> </p>
 
-- 🔭 I’m currently working on **my portfolio**
-
 - 🌱 I’m currently learning **Selenium ,TestNG and Cucumber**
 
 - 💬 Ask me about **Maunal Testng ,API Testing ,Automation Testing**
 
 - 📫 How to reach me **shams.ali15720@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HKi_7LDHGZv10szcmaGFPN-kKDnw58D3/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
